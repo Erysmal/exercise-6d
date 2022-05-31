@@ -1,0 +1,19 @@
+body {
+  margin:0;
+  padding:0;
+  background-color:black;
+  font-family: montserrat;
+}
+.top-container {
+  background-color: white;
+  margin:0 auto;
+  width:90%;
+  height:50vh;
+  text-align:center;
+}
+h1 {
+  padding-top:20px;
+}
+.touch-span {
+  text-decoration:underline;
+}
